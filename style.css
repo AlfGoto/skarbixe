@@ -20,6 +20,6 @@ body{
     flex-wrap: wrap;
 }
 .square{
-    height: 1svw;
-    width: 1svw;
+    height: 4svw;
+    width: 4svw;
 }

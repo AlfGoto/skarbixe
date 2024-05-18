@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
     let grid = document.getElementById('grid')
     // console.log(grid)
 
-    let largeur = 100   ;
+    let largeur = 25   ;
     let total = largeur * largeur
 
 
