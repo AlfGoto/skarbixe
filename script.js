@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
         square.noir = false
 
 
-        square.addEventListener('mouseover', ()=>{
+        square.addEventListener('pointermove', ()=>{
             if(square.noir){
                 square.style.backgroundColor = 'white'
             }else{
