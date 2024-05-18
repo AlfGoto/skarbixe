@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
             if(square.noir){
                 square.style.backgroundColor = 'white'
             }else{
-                square.style.backgroundColor = 'black'
+                square.style.backgroundColor = 'pink'
             }
             square.noir = !square.noir
         })
